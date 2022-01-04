@@ -1,0 +1,17 @@
+a{
+  text-decoration: none;
+  color: #0645AD;
+}
+
+body{
+  margin: 80px;
+  margin-left: 180px;
+  font-family: sans-serif;
+}
+
+pre{
+  padding: 10px;
+  background-color: #D3D3D3;
+  margin: -1px;
+  border-radius: 7px;
+}
