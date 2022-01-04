@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+			integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+			crossorigin="anonymous"
+		/>
+		<title>BMI Calculator</title>
+	</head>
+	<body class="m-3">
+		<h2>Calculate Your Body Mass Index</h2>
+		<form action="/" method="POST">
+			<div class="row">
+				<div class="col-md-3">
+					<label for="weight">Weight:</label>
+					<input type="text" class="form-control" placeholder="Enter your weight in kgs" name="weight" />
+				</div>
+				<div class="col-md-3">
+					<label for="weight">Height:</label>
+					<input type="text" class="form-control" placeholder="Enter your height in cms" name="height" />
+				</div>
+			</div>
+			<button class="btn btn-primary mt-2" type="submit" value="submit">Calculate my BMI</button>
+		</form>
+		<br />
+		<div>
+			{% if bmi %}
+			<p>Your BMI is: {{bmi}}</p>
+			{% endif %}
+		</div>
+	</body>
+</html>
