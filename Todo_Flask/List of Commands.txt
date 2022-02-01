@@ -1,0 +1,35 @@
+pip install virtualenv 
+
+Have python downloaded in pc
+virtualenv env  --> creates a virtual environment named env
+
+If facing errors while creating a virtual env run this:
+Set-ExecutionPolicy unrestricted
+
+To start working in the virtualenv:
+.\env\Scripts\activate.ps1
+
+pip install flask
+pip install flask-sqlalchemy
+
+python
+from app import db
+db.create_all()
+exit()
+
+
+TO HOST IN HEROKU:
+heroku login
+
+pip install gunicorn
+pip freeze > requirements.txt
+Create a folder named Procfile and paste the below line
+web:gunicorn app:app
+
+git init
+git add .
+git commit -m "Initial commmit"
+
+heroku create todo-pranith(name of the app)
+git remote -v
+git push heroku master
