@@ -12,3 +12,6 @@ Click on this url https://todo-pranith.herokuapp.com/ to view the website.
 3. A link like http://127.0.0.1:5000/ will pop up in the terminal. Press Ctrl and click on the link to open it in the browser.
 4. Boom! You are on the landing page of the application. Hope you complete your tasks on time!
 
+## Snapshots
+![Screenshot (126)](https://user-images.githubusercontent.com/65860350/151979870-5c615b0f-a2d6-4a6a-8ec5-b896d80b936a.png)
+
