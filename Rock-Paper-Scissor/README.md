@@ -1,7 +1,7 @@
 # Rock Paper Scissor
 The popular childhood game that I built when I was learning PHP. Human VS Computer Let's play!!
 
-# Steps to play
+## Steps to play
 1. First and foremost install Xampp in your local machine.
 2. Once its done download the files in this repo into a folder (you can name the folder as per your wish) 'Rock-Paper-Scissor' created mandatorily in the 'htdocs' folder. You can find it in C:\xampp.
 3. Open the folder in VS code or anyother editor of your choice if your interested to check the source code.
@@ -10,7 +10,7 @@ The popular childhood game that I built when I was learning PHP. Human VS Comput
 6. Click login and enter a username and enter 'php123' as the password.
 7. Done you are all set to play. Hope you win!
 
-# Snapshots
+## Snapshots
 ## Index Page
 ![Screenshot (102)](https://user-images.githubusercontent.com/65860350/148097256-348ce52f-fb9b-4aea-8aa7-870d27e829e0.png)
 
