@@ -14,7 +14,7 @@ def send_mail(recepient,mail_object,body):
     subject=mail_object,
     html_content=body)
     sg = SendGridAPIClient(
-    "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")
+    "YOUR API KEY")
     sg.send(message)
 
 @app.route('/')
