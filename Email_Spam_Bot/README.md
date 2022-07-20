@@ -1,5 +1,5 @@
 # Email Spam Bot 
-This website allows you to spam mails to a particular mail ID. API used to send mails is provided by SendGrid. Since I'm currently subscribed to the free version max mails that can be sent per day is 100. But code works absolutely fine for any number .
+This website allows you to spam mails to a particular mail ID. API used to send mails is provided by SendGrid. Since I'm currently subscribed to the free version max mails that can be sent per day is 100. But code works absolutely fine for any number.
 
 ## Live Link
 Click on this url https://email-spam-bot.herokuapp.com/ to give it a try.
