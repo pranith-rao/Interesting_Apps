@@ -5,7 +5,8 @@
 * API used to send mails is provided by SendGrid. Since I'm currently subscribed to the free version max mails that can be sent per day is 100. But code works absolutely fine for any number.
 
 ## Live Link
-Click on this URL https://subscribe-pranith.herokuapp.com/ to access it.
+~~Click on this URL https://subscribe-pranith.herokuapp.com/ to access it.~~  
+Since heroku took down the free hosting service, the site is no longer hosted anywhere.
 
 ## Snapshots
 ### Home Page
