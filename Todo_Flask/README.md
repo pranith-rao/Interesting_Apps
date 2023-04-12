@@ -4,7 +4,8 @@ The website is built using HTML,CSS,Flask.
 
 ## Live Link
 I have hosted the website using Heroku and the 'List of Commands' file in the repo contains the steps to be followed to host a website using heroku.  
-Click on this url https://todo-pranith.herokuapp.com/ to view the website.
+~~Click on this url https://todo-pranith.herokuapp.com/ to view the website.~~  
+Since heroku took down the free hosting service, the site is no longer hosted anywhere.
 
 ## Steps to run the application
 1. Clone this repo into your local machine and open it using VS code or anyother editor of your choice.
