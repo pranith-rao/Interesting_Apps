@@ -7,7 +7,8 @@ CS50 Project 0 is an introductory project for the CS50 course. The project requi
 
 ## Snapshots
 ### Home Page
-
+![Screenshot (397)](https://user-images.githubusercontent.com/65860350/231477543-c06b3506-ff02-49c5-8606-5a0e0b2402aa.png)
 ### Google Images
-
+![Screenshot (398)](https://user-images.githubusercontent.com/65860350/231477595-6f488416-1db6-4fa0-b5b1-e5a97d658f7c.png)
 ### Advanced Search Page
+![Screenshot (399)](https://user-images.githubusercontent.com/65860350/231477639-db18cfdd-c464-4c6d-b1ea-e6d72f00c396.png)
