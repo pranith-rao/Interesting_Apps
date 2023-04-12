@@ -2,7 +2,8 @@
 This website shows a demo on how emails are verified using OTPs. This code can be used in your websites for multiple purposes like forgot password,while registration,payments etc. API used to send mails is provided by SendGrid. Since I'm currently subscribed to the free version max mails that can be sent per day is 100. But code works absolutely fine for any number.
 
 ## Live Link 
-Click on this URL https://verify-your-email.herokuapp.com/ to give it a try!
+~~Click on this URL https://verify-your-email.herokuapp.com/ to give it a try!~~  
+Since heroku took down the free hosting service, the site is no longer hosted anywhere.
 
 ## Snapshots
 ### Home Page
