@@ -1,5 +1,5 @@
 # React Todo App 
-Simple todo app built completely using React. In this you can add, make as completed and delete your tasks. Used the Vite build too for this project and made it responsive using react bootstrap.
+Simple todo app built completely using React. In this you can add, mark as completed and delete your tasks. Used the Vite build tool for this project and made it responsive using react bootstrap.
 
 ## Steps to run the application
 1. Clone this repo into your local machine and open it using VS code or anyother editor of your choice.
